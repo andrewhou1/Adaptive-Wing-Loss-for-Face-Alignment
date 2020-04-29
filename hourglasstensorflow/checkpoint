@@ -1,0 +1,6 @@
+model_checkpoint_path: "/research/cvlshare/cvl-andrew/Nonlinear_3DMM_sz224_2020/CSE891_project_model/hourglasstensorflow/hg_refined_200_39"
+all_model_checkpoint_paths: "/research/cvlshare/cvl-andrew/Nonlinear_3DMM_sz224_2020/CSE891_project_model/hourglasstensorflow/hg_refined_200_35"
+all_model_checkpoint_paths: "/research/cvlshare/cvl-andrew/Nonlinear_3DMM_sz224_2020/CSE891_project_model/hourglasstensorflow/hg_refined_200_36"
+all_model_checkpoint_paths: "/research/cvlshare/cvl-andrew/Nonlinear_3DMM_sz224_2020/CSE891_project_model/hourglasstensorflow/hg_refined_200_37"
+all_model_checkpoint_paths: "/research/cvlshare/cvl-andrew/Nonlinear_3DMM_sz224_2020/CSE891_project_model/hourglasstensorflow/hg_refined_200_38"
+all_model_checkpoint_paths: "/research/cvlshare/cvl-andrew/Nonlinear_3DMM_sz224_2020/CSE891_project_model/hourglasstensorflow/hg_refined_200_39"
